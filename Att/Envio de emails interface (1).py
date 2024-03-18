@@ -1,6 +1,3 @@
-import pandas as pd
-import smtplib
-import webbrowser
 import json
 import atexit
 import os
