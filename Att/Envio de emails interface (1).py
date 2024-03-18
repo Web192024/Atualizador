@@ -1,4 +1,3 @@
-import sys
 import pandas as pd
 import smtplib
 import webbrowser
@@ -6,7 +5,6 @@ import json
 import atexit
 import os
 import time
-import random
 from styles import *
 from pathlib import Path
 from datetime import datetime
